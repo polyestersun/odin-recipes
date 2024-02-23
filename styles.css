@@ -1,0 +1,18 @@
+* {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h1 {
+    margin: 40px;
+    color: black;
+    text-align: left;
+}
+
+ul {
+    padding: 40px;
+}
+
+li {
+    margin: 20px;
+    font-size: 20px;
+}
