@@ -3,13 +3,16 @@
 }
 
 h1 {
-    margin: 40px;
-    color: black;
-    text-align: left;
+    color: white;
+    text-align: center;
+    background-color: rgb(55, 55, 129);
+    padding: 30px;
 }
 
 ul {
     padding: 40px;
+    background-color: lightblue;
+    width: 230px;
 }
 
 li {
